@@ -1,4 +1,4 @@
-# Random-Password-Generator-using-HTML-CSS-JavaScript
+# Password Generator Website
 
 - It is a project based on HTML, CSS and JavaScript. <br>
 - This web application will create a strong password for the user by combining uppercase characters, lowercase characters, numbers and symbols. Additionally, the       user has the flexibility to specify the password length. <br>
